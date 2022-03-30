@@ -6,5 +6,5 @@ para colocar som em HTML
 <embed src="musica" autostart="false" loop="true" width="0" height="0">
 neste modo o som fica escondido
 veja e teste em 
-http://www.then.thenilson.top/dino/
+http://www.then.thenilson.com/dinosauro/
 
